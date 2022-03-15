@@ -32,4 +32,4 @@ In issues, pull requests and comments of another repository	../../../github/docs
 2. James Monroe
 3. John Quincy Adams
 4. First list item
- 
+
